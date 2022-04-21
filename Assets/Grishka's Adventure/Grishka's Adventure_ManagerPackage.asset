@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b4a24d0e4a28423fb3249b923d7e418, type: 3}
+  m_Name: Grishka's Adventure_ManagerPackage
+  m_EditorClassIdentifier: 
+  actionsManager: {fileID: 11400000, guid: f647cab4880a901488db73ea6749b2aa, type: 2}
+  sceneManager: {fileID: 11400000, guid: e7f17306b41de5342ae6ce929a672f96, type: 2}
+  settingsManager: {fileID: 11400000, guid: 439d6fc3512fffa4482caf3717dbd671, type: 2}
+  inventoryManager: {fileID: 11400000, guid: 8bb5bb1ff76138a4fb8ec0c8a1494180, type: 2}
+  variablesManager: {fileID: 11400000, guid: 0b0a6122a05bd67478def7d1fd586544, type: 2}
+  speechManager: {fileID: 11400000, guid: 1cf118ebd05eedf459ede507674278de, type: 2}
+  cursorManager: {fileID: 11400000, guid: 3e2d4289049f8cf4faa78b52fb45f4e9, type: 2}
+  menuManager: {fileID: 11400000, guid: c9c4fdf9ca5eeb343b4c9aa0873cc6bd, type: 2}
